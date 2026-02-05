@@ -22,3 +22,20 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+lib64/
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+dist/
