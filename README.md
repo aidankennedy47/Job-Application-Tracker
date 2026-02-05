@@ -28,7 +28,8 @@ This project allows users to **add, view, edit, and delete job applications** th
 ---
 
 ### Screenshots
-<img width="545" height="428" alt="image" src="https://github.com/user-attachments/assets/362990e1-e213-4aa3-b233-b23ee2f684eb" />
+<img width="534" height="406" alt="JAT" src="https://github.com/user-attachments/assets/b1635f6d-a61c-461b-bb7d-79a6ade81d1f" />
+
 
 ---
 
