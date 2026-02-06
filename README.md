@@ -46,6 +46,9 @@ SQLite was chosen for quick local development. Postgres was recommended for prod
 ### React + FastAPI:
 Separate frontend and backend makes the project more modular and future-proof. Tradeoff: requires managing CORS and two separate dev servers, which adds setup complexity.
 
+### FastAPI vs Flask:
+FastAPI is Async by default making it high performance, it was easier for me to use and allowed for me to have fast development. These were the reasons why I decided to use it over Flask (which has better adoption and support).
+
 ### Manual form management:
 Using controlled React forms makes the UI reactive but adds boilerplate code. Future improvements could include a form library (e.g., Formik or React Hook Form).
 
